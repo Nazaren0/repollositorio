@@ -1,2 +1,2 @@
 # repollositorio
-este repositorio tiene el fin de ayudarme a aprender a usar Git
+este repositorio tiene el fin de ayudarme a subir mi proyectitox
